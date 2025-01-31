@@ -28,3 +28,8 @@ You will find a folder structure as below:
 * **crux/**: Crux trace.
 * **helios/**: Helios trace.
 * **philly/**: Microsoft philly trace.
+
+## Trace analysis
+A Jupyter notebook is provided for reproducible trace analysis.
+
+In the notebook, there are code snippets that parses, extracts, cleans up the traces.
