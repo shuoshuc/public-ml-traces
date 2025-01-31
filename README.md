@@ -18,7 +18,7 @@ In case of broken links, a snapshot is taken on Jan 30, 2025 and hosted on [Zeno
 After downloading the tar.gz file, unzip it with
 
 ```bash
-tar xcvf trace-snapshot-20250130.tar.gz
+tar zxvf trace-snapshot-20250130.tar.gz
 ```
 
 You will find a folder structure as below:
