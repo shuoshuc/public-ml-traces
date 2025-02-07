@@ -32,4 +32,5 @@ You will find a folder structure as below:
 ## Trace analysis
 A Jupyter notebook is provided for reproducible trace analysis.
 
-In the notebook, there are code snippets that parses, extracts, cleans up the traces.
+In the notebook, there are code snippets that parse, extract, clean up the traces.
+You can also find plotting functions in it.
