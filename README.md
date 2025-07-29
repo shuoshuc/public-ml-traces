@@ -16,7 +16,7 @@ Below is a table summarizing what they are, the link to the artifacts and the co
 
 Note that the job traces in the NCSA Bluewaters dataset contain GPU allocations. However, it is yet to be confirmed whether the jobs are ML applications or scientific computing.
 
-In case of broken links, a snapshot is taken on July 26, 2025 and hosted on [Zenodo](https://doi.org/10.5281/zenodo.14775937). The archive file is about 4GB.
+In case of broken links, a snapshot is taken on July 26, 2025 and hosted on [Zenodo](https://doi.org/10.5281/zenodo.14775936). The archive file is about 4GB.
 
 After downloading the tar.gz file, unzip it with
 
